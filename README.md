@@ -2,7 +2,7 @@
 ### Fall 2018 / TR 5:30 - 7:15 pm / Carroll Hall Room 142
 
 ## INSTRUCTOR
-**Lexi Namer**
+Lexi Namer
 <br>
 www.lexinamer.com
 <br>
@@ -73,10 +73,10 @@ ISBN-13: 978-1118531648
 I will use Atom for in-class demonstrations and assignments, but feel free to use the IDE of your choice -- as long as it allows for efficient, legible editing of HTML/CSS/JavaScript code. Some students prefer Sublime or Kimodo Edit. Do not use Dreamweaver; it is not an industry-standard code editor.
 
 ### Hosting
-You should already have a web hosting service (i.e. server space) from MEJO 187. If your account has expired, you will need to sign up for a hosting service that allows for the creation of dynamic apps with client-side scripting and SFTP for file transfers. I prefer Web Faction, and I will use that to demonstrate PHP apps in the latter part of the course.
+You should already have a web hosting service (i.e. server space) from MEJO 187. If your account has expired, you will need to sign up for a hosting service that allows for the creation of dynamic apps with client-side scripting and SFTP for file transfers. I prefer Web Faction, and I will use that for any demonstrations throughout the course.
 
 ### Course Websites
-We will use Sakai for assignment submissions, grading, attendance, and other administrative matters, and GitHub for coding resources (e.g., starter files for some of your coding assignments). More information will be given during the semester.
+We will use GitHub for coding resources (e.g., starter files for some of your coding assignments) and Github Pages to submit assignments. More information will be given during the semester.
 
 ### Screencasts
 I may record screencasts as part of the grading process for some of your projects. The screencasts provide real-time feedback, akin to having an employer sitting next to you at the computer and pointing out strengths, weaknesses, coding errors, and suggestions for improvement. I recommend that you watch them. They are short (no more than 15 minutes) and will help you debug and learn new techniques.
@@ -138,7 +138,7 @@ No single course could possibly give you all of these values and competencies; b
 | 25         | Tues Nov 13   | News APIs                                                            |
 | 26         | Thurs Nov 15  | Social APIs                                                          |
 | 27         | Tues Nov 20   | Google Sheets as a Database                                          |
-|            | ** Thurs Nov 22  | Thanksgiving - no class **                                              |
+|            | Thurs Nov 22  | Thanksgiving - no class                                               |
 | 28         | Tues Nov 27   | Review/Parking Lot                                                   |
 | 29         | Thurs Nov 29  | Lab time for Final Project                                           |
 | 30         | Tues Dec 4    | Lab time for Final Project                                           |
