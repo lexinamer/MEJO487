@@ -3,9 +3,13 @@
 
 ## INSTRUCTOR
 Lexi Namer
+<br>
 www.lexinamer.com
+<br>
 lexinamer@live.unc.edu
+<br>
 901.438.8777
+<br>
 OFFICE HOURS: Before class or by appointment
 
 ## COURSE DECSCRIPTION
