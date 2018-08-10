@@ -2,7 +2,7 @@
 ### Fall 2018 / TR 5:30 - 7:15 pm / Carroll Hall Room 142
 
 ## INSTRUCTOR
-Lexi Namer
+**Lexi Namer**
 <br>
 www.lexinamer.com
 <br>
