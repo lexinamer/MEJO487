@@ -45,6 +45,7 @@ There will be one exam during the second half of the semester, most likely on ex
 
 ### Grading
 Your work must meet the following minimum standards to be considered for a grade of B or better:
+
 |    ASSIGNMENTS   |   POINTS EACH  |    % OF GRADE| 
 |-----------------------|-------------|-------------| 
 | Exercises and Quizzes | 20          | 20%         | 
