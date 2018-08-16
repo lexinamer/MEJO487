@@ -56,6 +56,21 @@ Your work must meet the following minimum standards to be considered for a grade
 | Coding Test           | 100         | 10%         | 
 | Total                 | 1000        | 100%        | 
 
+|LETTER GRADE |   %     | 
+|--------------|--------| 
+| A            | 94-100 | 
+|   A-         | 90-93  | 
+|   B+         | 87-89  | 
+|  B           | 84-86  | 
+|  B-          | 80-83  | 
+| C+           | 77-79  | 
+| C            | 74-76  | 
+| C-           | 70-73  | 
+| D+           | 67-69  | 
+| D            | 60-66  | 
+| F            | 0-59   | 
+
+
 *It meets the assignment specifications.*
 * It has few, if any, typographical, grammatical, or programming errors.
 * It demonstrates a clear grasp of web design and development standards.
