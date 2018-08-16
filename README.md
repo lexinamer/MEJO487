@@ -45,6 +45,15 @@ There will be one exam during the second half of the semester, most likely on ex
 
 ### Grading
 Your work must meet the following minimum standards to be considered for a grade of B or better:
+|    ASSIGNMENTS   |   POINTS EACH  |    % OF GRADE| 
+|-----------------------|-------------|-------------| 
+| Exercises and Quizzes | 20          | 20%         | 
+| Project 1             | 150         | 15%         | 
+| Project 2             | 150         | 15%         | 
+| Project 3             | 150         | 15%         | 
+| Final Project         | 250         | 25%         | 
+| Coding Test           | 100         | 10%         | 
+| Total                 | 1000        | 100%        | 
 
 *It meets the assignment specifications.*
 * It has few, if any, typographical, grammatical, or programming errors.
