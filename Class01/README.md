@@ -15,7 +15,7 @@
 * **Time** - I expect students to be on time and in their seats at the start of class. Class starts at 5:30- this means your butt should be in the chair at 5:30. Not getting coffee. Not running to the bathroom. In your seat. We have a lot of material to cover and a limited about of time. I will keep a tally of tardiness and dock points for excessive lateness.
 
 ## Demos and In Class Notes
-* I use Github (the industry standard) for all of my lecture notes, demos, etc. Here is the repo: https://github.com/lexinamer/mejo487 where you can find all information.
+* I use Github (the industry standard) for all of my lecture notes, demos, etc. For simple demos, I will also use Codepen. Here is the repo: https://github.com/lexinamer/mejo487 where you can find all information.
 * Quickly walk through Github and cloning
 * I’ll always include my demo code at the end of the lecture and push it up for your use.
 
@@ -61,4 +61,4 @@
 * Practice positioning by putting boxes inside boxes
 
 ## Homework
-* Read the article
+* Read the two articles to introduce yourself to grid and flexbox
