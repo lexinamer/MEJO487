@@ -3,7 +3,7 @@
 **Slideshow: http://bit.ly/487class1**
 
 ## Introductions
-* About me- designer and developer. Started out my career as a freelance photographer and visual artist. Taught myself how to code. Have Master’s from the j-school in interactive media. Worked as instructor at The Iron Yard and now at an agency.
+* About me- I'm a designer and developer. Started out my career as a freelance photographer and visual artist. Taught myself how to code. Have a Master’s from the j-school in interactive media. Worked as an instructor at The Iron Yard and now at a small agency and freelance.
 * Students- Name, year, major, and your least favorite (or hardest) thing about code from 187
 
 ## Policies and Procedures
