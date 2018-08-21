@@ -1,0 +1,80 @@
+img {
+  width: 100%;
+}
+
+a {
+  color: purple;
+  border: 2px solid purple;
+  text-decoration: none;
+  padding: 10px;
+  cursor:
+}
+
+a:hover {
+  background: purple;
+  color: white;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+.red {
+    background: red;
+}
+
+.blue {
+    background: blue;
+}
+
+.green {
+    background: green;
+}
+
+.parent {
+  height: 300px;
+  width: 100%;
+  background: yellow;
+  position: relative;
+}
+
+.child {
+  position: absolute;
+  right: 0;
+  height: 50px;
+  width: 100%;
+  background: purple;
+  bottom: 0;
+}
+
+#box-model {
+  background: salmon;
+  text-align: center;
+  color: white;
+  margin: 10px;
+  margin-left: 50px;
+  padding: 30px;
+  border: 5px solid rebeccapurple;
+  border-radius: 50%;
+}
+
+.bear:hover {
+  opacity: .5;
+}
+
+.bg {
+  background-image: url('bear.jpg');
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+}
+
+.one:nth-child(odd) {
+  background: salmon;
+}
+
+.one:nth-child(even) {
+  background: teal;
+}
