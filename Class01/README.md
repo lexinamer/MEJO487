@@ -61,4 +61,6 @@
 * Practice positioning by putting boxes inside boxes
 
 ## Homework
-* Read the two articles to introduce yourself to grid and flexbox
+* Read these two articles to introduce yourself to grid and flexbox:
+	* https://css-tricks.com/snippets/css/complete-guide-grid/
+	* https://css-tricks.com/snippets/css/a-guide-to-flexbox/
