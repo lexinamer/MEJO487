@@ -12,6 +12,7 @@
 - Don't forget to add overflow to parent or else it will collapse
 - Add `clear:both` to children
 - Good for single elements
+- Codepen review of floats (simple navigation bar)
 
 ## CSS Grid
 - Can be unsupported on older browsers
@@ -42,9 +43,10 @@
 ## Media queries
 - Does anyone need a refresher?
 - Review max v min width
+- Do a Codepen demo with the float nagigation (change text size)
 
 ## Project 1: CSS Bootcamp
-- Go through basics
+- Go through basics/deadline
 - Promise this is a worthy albeit sometimes painful exercise. Its the best way to get really good really fast
 - We will review the submission policy and practice it once we get to terminal and github
 - Your grade will also depend on how clean your code is. If I can't read your code, I will dock points
@@ -65,3 +67,4 @@
 - Using anything but a grid system, code the 6 cards below the main video on the homepage of the News and Observer https://www.newsobserver.com/. Don't forget the box shadows and hover states.
 - Tip. Layout 1 card and then duplicate it. No need to reinvent the wheel.
 - Submit this by having it pulled up at the start of class on Tuesday.
+- Be ready to talk about what was difficult
