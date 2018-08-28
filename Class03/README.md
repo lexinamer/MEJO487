@@ -37,3 +37,5 @@ We will get to more creative/design focused stuff. We just have to learn the bas
   - Inside each folder, add 2 **files**: "index.html", "style.css"
 - You don't have to submit this but we will be having a short timed quiz using the terminal at the start of class. It will primary focus on moving in and out of folders, creating folders, and creating files so practice.
 - Create your sketch for CSS Bootcamp
+
+### New Bootcamp deadline - September 12 at Midnight
