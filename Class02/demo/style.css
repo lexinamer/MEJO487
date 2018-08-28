@@ -1,0 +1,29 @@
+.row1 {
+  background: pink;
+  height: 200px;
+}
+
+.row2 {
+  background: red;
+  height: 500px;
+}
+
+.col1 {
+  background: blue;
+  height: 200px;
+}
+
+.col2 {
+  background: green;
+  height: 200px;
+}
+
+.row2b {
+  background: purple;
+  height: 50px;
+}
+
+.row2c {
+  background: black;
+  height: 50px;
+}
