@@ -138,9 +138,9 @@ No single course could possibly give you all of these values and competencies; b
 | 3          | Tues Aug 28   | Command Line Basics                                                  |
 | 4          | Thurs Aug 30  | Git & GitHub                                                         |
 | 5          | Tues Sep 4    | Github Pages; Lab time for Project 1                                 |
-|            | **Weds Sept 5   | Project 1 due by MIDNIGHT**                                         |
 | 6          | Thurs Sep 6   | JavaScript Part 1 (intro, variables, data types)                     |
-| 7          | Tues Sep 11   | JavaScript Part 2 (functions & objects),                             |
+| 7          | Tues Sep 11   | JavaScript Part 2 (functions & objects)
+|            | **Weds Sept 12   | Project 1 due by MIDNIGHT**                                         ||
 | 8          | Thurs Sep 13  | JavaScript Part 3 (DOM manipulation)                                 |
 | 9          | Tues Sep 18   | JavaScript Part 4 (loops and ES6)                                    |
 | 10         | Thurs Sept 20 | Basic design for data, Interactive storytelling, Introduce Project 2 |
