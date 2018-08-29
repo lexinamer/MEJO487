@@ -13,8 +13,7 @@
 * CSS Grid- a complete guide: https://css-tricks.com/snippets/css/complete-guide-grid/
 * Naming CSS Grid: https://www.smashingmagazine.com/2017/10/naming-things-css-grid-layout/
 
-
 ## Fun CSS Stuff
 * Media Queries: https://css-tricks.com/snippets/css/media-queries-for-standard-devices/
 * Nth Child Recipes: https://css-tricks.com/useful-nth-child-recipies/
-* Hover States:
+* Hover States: https://www.bitdegree.org/learn/css-hover/
