@@ -136,8 +136,8 @@ No single course could possibly give you all of these values and competencies; b
 | 1          | Tues Aug 21   | Introductions, policies, CSS review and advanced methods             |
 | 2          | Thurs Aug 23  | CSS Layouts, Project 1 assigned                                      |
 | 3          | Tues Aug 28   | Command Line Basics                                                  |
-| 4          | Thurs Aug 30  | Git & GitHub                                                         |
-| 5          | Tues Sep 4    | Github Pages; Lab time for Project 1                                 |
+| 4          | Thurs Aug 30  | Git & GitHub/GitHub Pages                                                         |
+| 5          | Tues Sep 4    | Lab time for Project 1                                 |
 | 6          | Thurs Sep 6   | JavaScript Part 1 (intro, variables, data types)                     |
 | 7          | Tues Sep 11   | JavaScript Part 2 (functions & objects)
 |            | **Weds Sept 12   | Project 1 due by MIDNIGHT**                                         ||
