@@ -1,4 +1,4 @@
-# Day 3	 | Command Line, Media Queries, Review
+# Day 4	 | Git and Github
 
 **Slideshow: https://docs.google.com/presentation/d/13Ed26-EnU4j0gXwCNvUFDRKkWYLlNrgz8iglt7uUddk/edit?usp=sharing**
 
