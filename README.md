@@ -141,8 +141,8 @@ No single course could possibly give you all of these values and competencies; b
 | 6          | Thurs Sep 6   | JavaScript Part 1 (intro, variables, data types)                     |
 | 7          | Tues Sep 11   | JavaScript Part 2 (functions & objects)
 |            | **Weds Sept 12   | Project 1 due by MIDNIGHT**                                         ||
-| 8          | Thurs Sep 13  | JavaScript Part 3 (DOM manipulation)                                 |
-| 9          | Tues Sep 18   | JavaScript Part 4 (loops and ES6)                                    |
+| 8          | Thurs Sep 13  | Review CSS Bootcamp, JavaScript Part 3 (loops)                                 |
+| 9          | Tues Sep 18   | JavaScript Part 4 (DOM manipulation and review)                                    |
 | 10         | Thurs Sept 20 | Basic design for data, Interactive storytelling, Introduce Project 2 |
 | 11         | Tues Sept 25  | jQuery                                                               |
 | 12         | Thurs Sept 27 | NO CLASS                                                             |
