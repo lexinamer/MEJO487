@@ -1,4 +1,4 @@
-# Day 5	 | Git and Github Continued
+# Day 6	 | Intro to Javascript
 
 **Slideshow: https://docs.google.com/presentation/d/1vTkmBBjgF-Q3pfhMjQ8jpG2qzZt8kZ6jqKwetvkA05Y/edit?usp=sharing**
 
@@ -61,7 +61,6 @@ var myHometown
 ```
 
 The Console lets you use standard JavaScript statements and Console-specific commands while a page is live in the browser to help you debug the page. We will use the one built into the Chrome dev tools.
-![console](http://www.ikrazzy.com/wp-content/uploads/2012/02/chrome-javascript-error.jpg)
 
 
 ## Getting Javascript to the screen
