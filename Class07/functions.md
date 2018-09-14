@@ -147,11 +147,3 @@ localScope();
 // But what happens when we try to call a locally scoped variable outside of the function?
 console.log(local + " does not work here");
 ```
-
-
-# Class Problem
-1. Create two objects to hold information on your favorite recipes. It should have properties for title (a string), servings (a number), and ingredients (an array of strings).
-
-2. Write a function that will put all of the information into a sentence and print it on the page.
-
-3. Call the functions so that they appear line by line.
