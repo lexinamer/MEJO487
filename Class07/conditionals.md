@@ -36,10 +36,3 @@ if (expression1) {
 
 ## An example to see how this works:
 Codepen: https://codepen.io/lexinamer/pen/RRYPxZ
-
-## Practice Problem
-1. Create a variable that gives a prompt asking for the temperature
-2. Using if and else if statements, make it do the following:
-- If it is greater than 100, stay inside.
-- If it is between 60 and 99, wear a t-shirt.
-- Otherwise, use common sense.
