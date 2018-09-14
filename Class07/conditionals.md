@@ -35,8 +35,7 @@ if (expression1) {
 ```
 
 ## An example to see how this works:
-<iframe height='265' scrolling='no' title='If/Else Test' src='//codepen.io/lexinamer/embed/RRYPxZ/?height=265&theme-id=0&default-tab=js,result&embed-version=2' frameborder='no' allowtransparency='true' allowfullscreen='true' style='width: 100%;'>See the Pen <a href='https://codepen.io/lexinamer/pen/RRYPxZ/'>If/Else Test</a> by Lexi Namer (<a href='https://codepen.io/lexinamer'>@lexinamer</a>) on <a href='https://codepen.io'>CodePen</a>.
-</iframe>
+Codepen: https://codepen.io/lexinamer/pen/RRYPxZ
 
 ## Practice Problem
 1. Create a variable that gives a prompt asking for the temperature
