@@ -139,33 +139,33 @@ No single course could possibly give you all of these values and competencies; b
 | 4          | Thurs Aug 30  | Git & GitHub/GitHub Pages                                                         |
 | 5          | Tues Sep 4    | Lab time for Project 1                                 |
 | 6          | Thurs Sep 6   | JavaScript Part 1 (intro, variables, data types)                     |
-| 7          | Tues Sep 11   | WEATHER DAY
-| 8          | Thurs Sep 13  | WEATHER DAY                |
+| -          | Tues Sep 11   | WEATHER DAY
+| -          | Thurs Sep 13  | WEATHER DAY                |
 |            | **Mon Sept 17   | Project 1 due by 5PM**                                         ||
-| 9          | Tues Sep 18   | JavaScript Part 2 (functions & objects), JavaScript Part 3 (loops)  |
-| 10         | Thurs Sept 20 | JavaScript Part 4 (DOM manipulation and review) Introduce Project 2 |
-| 11         | Tues Sept 25  | Basic design for data, Interactive storytelling, jQuery            |
-| 12         | Thurs Sept 27 | NO CLASS                                                             |
-| 13         | Tues Oct 2    | jQuery plugins                                                       |
-| 14         | Thurs Oct 4   | jQuery advanced, Lab time                                            |
-| 15         | Tues Oct 9    | Lab time for Project 2                                               |
+| 7          | Tues Sep 18   | JavaScript Part 2 (functions & objects), JavaScript Part 3 (loops)  |
+| 8         | Thurs Sept 20 | JavaScript Part 4 (DOM manipulation and review) Introduce Project 2 |
+| 9         | Tues Sept 25  | Basic design for data, Interactive storytelling, jQuery            |
+| -         | Thurs Sept 27 | NO CLASS                                                             |
+| 10         | Tues Oct 2    | jQuery plugins                                                       |
+| 11         | Thurs Oct 4   | jQuery advanced, Lab time                                            |
+| 12         | Tues Oct 9    | Lab time for Project 2                                               |
 |            | **Weds Oct 10   | Project 2 due by MIDNIGHT**                                            |
-| 16         | Thurs Oct 11  | Intro to AJAX, Setting up local servers                              |
-| 17         | Tues Oct 16   | XML data, Introduce Project 3                                        |
-| 18         | Thurs Oct 18  | JSON data                                                            |
-| 19         | Tues Oct 23   | Principles of Data Journalism                                        |
-| 20         | Thurs Oct 25  | Charts and Graphs                                                    |
-| 21         | Tues Oct 30   | Charts continued                                                     |
-| 22         | Thurs Nov 1   | Lab time for Project 3                                               |
+| 13         | Thurs Oct 11  | Intro to AJAX, Setting up local servers                              |
+| 14         | Tues Oct 16   | XML data, Introduce Project 3                                        |
+| 15         | Thurs Oct 18  | JSON data                                                            |
+| 16         | Tues Oct 23   | Principles of Data Journalism                                        |
+| 17         | Thurs Oct 25  | Charts and Graphs                                                    |
+| 18         | Tues Oct 30   | Charts continued                                                     |
+| 19         | Thurs Nov 1   | Lab time for Project 3                                               |
 |            | **Mon Nov 5     | Project 3 due by MIDNIGHT**                                            |
-| 23         | Tues Nov 6    | Intro to APIs, Introduce Final Project                               |
-| 24         | Thurs Nov 8   | Visual APIs                                                          |
-| 25         | Tues Nov 13   | News APIs                                                            |
-| 26         | Thurs Nov 15  | Social APIs                                                          |
-| 27         | Tues Nov 20   | Google Sheets as a Database                                          |
-|            | Thurs Nov 22  | Thanksgiving - no class                                               |
-| 28         | Tues Nov 27   | Review/Parking Lot                                                   |
-| 29         | Thurs Nov 29  | Lab time for Final Project                                           |
-| 30         | Tues Dec 4    | Lab time for Final Project                                           |
-| 31         | **Weds Dec 5    | Final Project due by MIDNIGHT**                                        |
+| 20         | Tues Nov 6    | Intro to APIs, Introduce Final Project                               |
+| 21         | Thurs Nov 8   | Visual APIs                                                          |
+| 22         | Tues Nov 13   | News APIs                                                            |
+| 23         | Thurs Nov 15  | Social APIs                                                          |
+| 24         | Tues Nov 20   | Google Sheets as a Database                                          |
+| -           | Thurs Nov 22  | Thanksgiving - no class                                               |
+| 25         | Tues Nov 27   | Review/Parking Lot                                                   |
+| 26         | Thurs Nov 29  | Lab time for Final Project                                           |
+| 27         | Tues Dec 4    | Lab time for Final Project                                           |
+| 28         | **Weds Dec 5    | Final Project due by MIDNIGHT**                                        |
 |            | **Tues Dec 11   | FINAL EXAM (CODING TEST): 4:00 pm**                                    |
