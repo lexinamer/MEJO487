@@ -139,12 +139,12 @@ No single course could possibly give you all of these values and competencies; b
 | 4          | Thurs Aug 30  | Git & GitHub/GitHub Pages                                                         |
 | 5          | Tues Sep 4    | Lab time for Project 1                                 |
 | 6          | Thurs Sep 6   | JavaScript Part 1 (intro, variables, data types)                     |
-| 7          | Tues Sep 11   | JavaScript Part 2 (functions & objects)
+| 7          | Tues Sep 11   | WEATHER DAY
 |            | **Weds Sept 12   | Project 1 due by MIDNIGHT**                                         ||
-| 8          | Thurs Sep 13  | Review CSS Bootcamp, JavaScript Part 3 (loops)                                 |
-| 9          | Tues Sep 18   | JavaScript Part 4 (DOM manipulation and review)                                    |
-| 10         | Thurs Sept 20 | Basic design for data, Interactive storytelling, Introduce Project 2 |
-| 11         | Tues Sept 25  | jQuery                                                               |
+| 8          | Thurs Sep 13  | WEATHER DAY                |
+| 9          | Tues Sep 18   | JavaScript Part 2 (functions & objects), JavaScript Part 3 (loops)  |
+| 10         | Thurs Sept 20 | JavaScript Part 4 (DOM manipulation and review) Introduce Project 2 |
+| 11         | Tues Sept 25  | Basic design for data, Interactive storytelling, jQuery            |
 | 12         | Thurs Sept 27 | NO CLASS                                                             |
 | 13         | Tues Oct 2    | jQuery plugins                                                       |
 | 14         | Thurs Oct 4   | jQuery advanced, Lab time                                            |
