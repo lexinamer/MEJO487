@@ -36,6 +36,6 @@ You are going to create a simple calculator that combines and calculates the tax
 
 https://codepen.io/lexinamer/pen/RYejae?editors=0010
 
-Submit your Codepen using this Google Form:
+Submit your Codepen by the start of class on 9/20 using this Google Form:
 https://goo.gl/forms/tgrhqULeEMQ50FNM2
 
