@@ -68,13 +68,13 @@ console.log(square(4));
 Inside of the function body, you can do as much work as you need. You can declare variables, use operators, even declare and use other functions. Once you're done, use the `return` keyword to specify what data your function call will return.  Observe:
 
 ```js runnable
-function doubleAndAddTax(price) {
-  var pretax = price * 2;
-  var total = pretax * 1.07;
+function addAndDouble(num1, num2) {
+  var addNums = num1 + num2;
+  var total = addNums * 2;
   return total;
 }
 
-console.log(doubleAndAddTax(35));
+console.log(addAndDouble(35, 45));
 ```
 
 ## Parameters and Arguments
