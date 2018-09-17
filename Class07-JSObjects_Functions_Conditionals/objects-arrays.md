@@ -11,7 +11,7 @@ var myCar = {
 };
 ```
 
-Objects can have any number of properties, and properties can contain any type of data (including other objects!). In the case of our dogs described above, we can simplify the code somewhat:
+Objects can have any number of properties, and properties can contain any type of data (including other objects!). In the case of our dogs, we can write the following:
 
 ```
 var dog1 = {
@@ -40,7 +40,7 @@ var dog2 = {
 //   dog2.description.hair
 ```
 
-In addition to using the "dot syntax" to access properties on an object (like dog1.name) you can also use the square bracket syntax: dog1["name"] . This syntax may look more verbose, but because the property name is a string now, we can compose it, or use an expression to determine it.
+In addition to using the "dot syntax" to access properties on an object (like dog1.name) you can also use the bracket syntax: dog1["name"]. This syntax may look more verbose, but because the property name is a string now, we can compose it, or use an expression to determine it.
 
 While this doesn't necessarily shorten the length of our code, it can help structure information better. Nevertheless, we've still got problems with our code because we can't support an arbitrary number of dogs, and it's still hard to perform operations across all dogs like listing them in a display of some kind. Arrays will help with that.
 
@@ -111,3 +111,7 @@ dogs.length // returns: 2
 dog[0].name // returns: "Fluffy"
 dogs[1].name // returns: "Patches"
 ```
+
+# Let's Practice!
+- Create an object about yourself. Include things like, name, age, hobbies (using an array)
+- Console.log the different properties and nested properties. 
