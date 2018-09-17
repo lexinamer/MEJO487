@@ -12,7 +12,7 @@
 - Functions
 - Conditionals
 
-## In Class Practice Problems
+## In Class Practice Problem
 Pair up and do the following exercise to practice problems
 
 ### 1. Weather App
@@ -30,4 +30,12 @@ Pair up and do the following exercise to practice problems
 
 3. Call the functions so that they appear line by line.
 
-## Homework
+
+## Homework- Tax Calculator
+You are going to create a simple calculator that combines and calculates the tax on two entrees. Fork this Codepen and follow the prompts in the comments using functions and objects. Bonus if you can get the final output to round up by 2 decimal places. 
+
+https://codepen.io/lexinamer/pen/RYejae?editors=0010
+
+Submit your Codepen using this Google Form:
+https://goo.gl/forms/tgrhqULeEMQ50FNM2
+
