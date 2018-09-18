@@ -6,7 +6,7 @@ Lexi Namer
 <br>
 www.lexinamer.com
 <br>
-lexinamer@live.unc.edu
+lnamer@live.unc.edu
 <br>
 901.438.8777
 <br>
