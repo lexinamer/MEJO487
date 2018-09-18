@@ -13,7 +13,7 @@
 - Conditionals
 
 ## In Class Practice Problem
-Pair up and do the following exercise to practice problems
+Pair up and do the following exercise to practice problems. When you are finished, each group should email their Codepen to lnamer@live.unc.edu
 
 ### 1. Weather App
 1. Create a variable that gives a prompt asking for the temperature
