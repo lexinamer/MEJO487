@@ -10,23 +10,27 @@ A helpful analogy is an apartment building. To change paint colors, add or remov
 
 In this case the apartment is your live HTML and CSS in a browser, you're the tenant, and the DOM is the landlord. In other words, the DOM is the interface between you and the changes you'd like to make.
 
+### To change some content:
+1. What elements do I need to get?
+2. What method do I need to use on them?
+3. What event will trigger that action?
 
-## Javascript Methods
+For example:
+1. I need to get the `h1 class="header"`
+2. I need to change the `color="green"`
+3. I want this to happen when a user clicks the `button`
+
+## JS Methods- Getting an Element
 Your browser automatically builds a Document Object to store the DOM of a page. We can use Javascript to manipulate the DOM or our HTML/CSS code.  
 
-To change a page:
-1. Find the DOM node and store it in a variable
-2. Use methods to manipulate the node
-
-
 ### By ID
-You can find a single node by id using the method:
-<br>`document.getElementById('id');`
+You can find a single element by id using the method:
+<br>`document.getElementById('id-name');`
 
 
 ### By Class Name
-You can find a single node by class using the method:
-`document.getElementByClassName('class');`
+You can find a single element by class using the method:
+`document.getElementByClassName('class-name');`
 
 
 ### By Tag Name
@@ -46,41 +50,16 @@ What gets returned by querySelectorAll is a list of the elements that match the 
 
 
 
-## Javascript Properties  
-Properties are the values associated with a JavaScript object. So far, we have been using them with objects, arrays, and dot notation.
-
-```js
-var object = {
-   property1 : value,
-   property2 : value2,
-   property3 : value3
-}
-
-// to be called using the following
-
-object.property1;
-```
-
+## JS Methods- Manipulating an Element
 Javascript has a lot of useful built in properties that can help us do things in the DOM such as store values, print to the HTML page, and change styles. Here are some of the most common:
 
 
-
-### Storing a value
-You can store the value of an element by using the value property.
+### Getting the value
+You can store the value of an element by using the value method.
 
 `<input id="text-input">`
 
 `document.getElementById("text-input").value;`
-
-
-
-### Storing the numerical value
-By default, Javascript stores values as a string. You can store the numerical value by using the parseInt property to parse out the value as an integer. This would be necessary in an addition calculator.
-
-`<input id="number-input">`
-
-`parseInt(document.getElementById("number-input").value);`
-
 
 
 ### Setting and removing Attributes
@@ -94,18 +73,12 @@ You can set and remove attributes to certain elements depending on the action or
 `document.querySelector("h1").removeAttribute("class", "red");`
 
 
-
 ### Styling an element
 You can change page and element styles through the style property.
 
 `<h1 id="change-me">Change Me</h1>`
 
-- To change one styling property:
-`document.getElementById("change-me").style.backgroundColor = "green";`
-
-- To Change multiple styling properties:
-`document.getElementById("change-me").setAttribute("style", "background-color: green; color: orange;");`
-
+`document.querySelector("#change-me").style.backgroundColor = "green";`
 
 
 ### Printing to the HTML page
@@ -113,13 +86,11 @@ You can print something to the html page using the inner html property
 
 `<div id="getme"></div>` (this is an empty div)
 
-
 `document.querySelector("#getme").innerHTML = "Print this text to the page";`
 
 
-
-## Javascript Events
-An 'event' is a type of object that is created when the user interacts with a web page. For example: onClick, do something.
+## JS Events
+An 'event' is a type of object that is created when the user interacts with a web page. This is the third part to using JS.
 
 There are a [ton](https://developer.mozilla.org/en-US/docs/Web/Events) of events in javascript Some of the most common:
 - click
@@ -129,48 +100,35 @@ There are a [ton](https://developer.mozilla.org/en-US/docs/Web/Events) of events
 - submit
 
 
-# Javascript Event Listeners
-An event listener is a function that listens for an event. When that event is emitted, the function will be called automatically.
+### Javascript Event Listeners
+An event listener is a function that listens for an event. When that event is triggered, the function will be called automatically.
 
 There are several ways you can use event listeners to talk between HTML and Javascript.
 
-For example, lets say we want to find the date on the click of a button:
-`<button id="click-me">Click Me For Date</button>`
+For example, lets say we want make a popup on the click of a button:
+`<button id="click-me">Click Me</button>`
 
 
 ### addEventListener()
 The add event listener method attaches an event handler to the specified element.
 
-Here is the syntax:
-`element.addEventListener(event, function, useCapture);`
+```js
+// 1. Store the button as a variable
+var button = document.querySelector("#click-me");
 
-`document.getElementById("click-me").addEventListener("click", displayDate);`
+// 2. Listen for a click on button
+button.addEventListener("click", function(){
 
+  // 3. Get the year
+  alert('Button has been clicked!!!');
+});
+```
 
+## Let's practice
+Lets Redo the MadLib assignment using inputs instead of prompts
+Follow me in Codepen
 
-### .onEvent method
-The on event method binds a function to an element that occurs on an event.
+## Bill Calculator
+Pair up and do the following. Each group should email me the completed link at lnamer@live.unc.edu
 
-
-Here is the syntax:
-`element.onclick = function() {do something};`
-
-
-`document.getElementById("click-me").onclick = function() {displayDate};`
-
-
-## In Class Problems
-- Simple Addition Calculator
-- Color Changer
-- Mad Lib with input forms
-
-
-# Peer Programming: Bill Calculator
-1. Create a tip calculator that takes the total bill and lets you select either 15%, 20%, or 25% tip. Output the final total after tip.
-2. Now see if you can take the new total and split the bill (after tip) 2, 3, or 4 ways.
-3. Give it some styling.  
-
-# Peer Programming: User Profile
-1. Take some profile information about a user (name, email, username, etc) using inputs
-2. Output that information back onto the page in a readable, hierarchical way.
-3. Give it some styling.
+Create a tip calculator that takes the total bill and lets you select either 15%, 20%, or 25% tip. Output the final total after tip.

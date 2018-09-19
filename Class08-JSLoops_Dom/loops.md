@@ -124,5 +124,5 @@ console.log('dog facts');
 https://codepen.io/lexinamer/pen/OorZqN?editors=0012
 
 ## Let's Practice
-Pair up and do the following in Codepen. Each group should email me the completed link at lnamer@live.unc.edu
+Pair up and fork the following in Codepen. Each group should email me the completed link at lnamer@live.unc.edu
 https://codepen.io/lexinamer/pen/rZoKEX?editors=0010
