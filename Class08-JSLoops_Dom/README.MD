@@ -10,13 +10,5 @@
 - Quickly introduce interactive storytelling: https://docs.google.com/presentation/d/1Bc7-d-yovNLyx3o0z2UW8bWipomWaD5jBMwPyZTKNDM/edit?usp=sharing
 
 ## Homework
-### Project 2
 1. Read this article: https://venngage.com/blog/how-to-make-an-infographic-in-5-steps/
 2. Come to class on Tuesday with an idea for Project 2. We will be discussing them together at the start of class to be ready to briefly talk about it.
-
-### Hamburger Menu
-Using HTML, CSS, and Javascript, build a beautiful responsive header. It should include a logo and navigation.
-
-When the browser shrinks below 767px, make the nav become a clickable hamburger menu.
-
-Submit the Codepen here: https://goo.gl/forms/SXXuHrxXrdDpceGI2
