@@ -127,6 +127,7 @@ button.addEventListener("click", function(){
 ## Let's practice
 Lets Redo the MadLib assignment using inputs instead of prompts
 Follow me in Codepen
+Finished Example: https://codepen.io/lexinamer/pen/qMgzVN?editors=1011
 
 ## Bill Calculator
 Pair up and do the following. Each group should email me the completed link at lnamer@live.unc.edu
