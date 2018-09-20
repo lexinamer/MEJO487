@@ -12,3 +12,12 @@
 ## Homework
 1. Read this article: https://venngage.com/blog/how-to-make-an-infographic-in-5-steps/
 2. Come to class on Tuesday with an idea for Project 2. We will be discussing them together at the start of class to be ready to briefly talk about it.
+
+## JS Practice Problems
+- Redo mad libs to input inputs 
+- Redo the bill split calculator using inputs
+- Create a tip calculator using buttons to calculate 15%, 20%, 25%
+- Make text turn different colors when you click different buttons (for example, click "green", text turns green)
+- Create a box and add a class when you click the class "on" and remove the class when you click "off"
+- Loop through an array of your favorite book titles
+- Create an object of your favorite movies (title and year). Loop through the object and print all of the data in a `ul` (each movie will be an `li`). For example: Lion King: 2002
