@@ -1,4 +1,6 @@
 # Project 2- Interactive Slider
+PROJECT DUE: Monday Oct 15 at Midnight
+
 This project will use your HTML, CSS, and Javascript skills as well as storytelling and design abilities to create an informational interactive slider. The purpose of this is to explain a concept or topic in 10 steps or less. It should be informative, entertaining, and aesthetically pleasing.
 
 Former student example: http://kierstenschmidt.com/586/Project2/  
