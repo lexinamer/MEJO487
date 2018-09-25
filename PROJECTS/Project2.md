@@ -6,8 +6,8 @@ Former student example: http://kierstenschmidt.com/586/Project2/
 ## Requirements:
 - Project should be 10 slides or less
 - The slider must be responsive
-- You must code the actual slider from vanilla code (no plugins allowed)
-- You must include 2 jQuery plugins (ex: tooltip, lightbox, easy scrolling, flyout menus) for additional functionality and one must be a quiz at the end testing user's knowledge of your topic.
+- You must code the actual slider from vanilla code or a plugin
+- You must include 2 additional jQuery plugins (ex: tooltip, lightbox, easy scrolling, flyout menus) for additional functionality and one must be a quiz at the end testing user's knowledge of your topic.
 - Project must be well designed and thematically appropriate for your topic
 
 ## Grading:
