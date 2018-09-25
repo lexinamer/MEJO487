@@ -7,7 +7,7 @@ Update Project 2 requirements (plugins allowed but harder grading)
 Each student goes around the room and pitches their idea for Project 2 in 30 seconds or less. Ask any questions or get any feedback from others at this time.
 
 ## Javascript Review
-- Let's do a quick Codepen example together. Create 3 boxes and on click, turn each box blue.
+- Let's do a quick example together. Create 3 boxes and on click, turn each box blue.
 - Any questions?
 
 ## jQuery
