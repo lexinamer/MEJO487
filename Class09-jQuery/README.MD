@@ -60,6 +60,9 @@ Now you work on your own.
 5. Now make the box toggle instead of just show once.
 6. Make another set of boxes. Using jQuery, determine which box has been clicked on and make its subsequent box appear.  
 
+## jQuery Plugins
+https://docs.google.com/presentation/d/1wfgc8veSjmchRozmH0JpGwGj4br1bEvOhpxjMjBluac/edit?usp=sharing
+
 ## Homework
 Work on the design, layout, and content gathering for Project 2. Really sketch out how it is going to look, get any assets such as images that you may need, and get the content written and finished. Figure out what Plugins you are going to use and additional features the slider is going to have. By next class, you should be ready to start coding.
 
