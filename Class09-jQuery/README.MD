@@ -1,6 +1,9 @@
 # Day 9	 | jQuery and Plugins
 
+Update Project 2 requirements (plugins allowed but harder grading)
+
 ## Project 2 Idea Pitches
+
 Each student goes around the room and pitches their idea for Project 2 in 30 seconds or less. Ask any questions or get any feedback from others at this time.
 
 ## Javascript Review
