@@ -1,0 +1,29 @@
+.box {
+  height: 200px;
+  width: 200px;
+  background: blue;
+  margin: 10px;
+}
+
+.pinkbox {
+  background: pink;
+  padding: 20px;
+}
+
+.tealbox {
+  background: teal;
+  padding: 20px;
+}
+
+.boxy {
+  margin: 10px;
+  background: violet;
+  height: 50px;
+}
+
+.hidden {
+  margin: 10px;
+  background: orange;
+  height: 80px;
+  display: none;
+}
