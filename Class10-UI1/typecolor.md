@@ -35,7 +35,6 @@ Px, em and rem are all units of length used to define the size of elements on a 
 - Typekit
 - What the font?
 
-<br>
 # Color and Color Psychology
 The use of color can dramatically affect moods, feelings, and emotions. It is a powerful communication tool and can be used to signal action, influence mood, and cause physiological reactions, which becomes especially important in design.
 
