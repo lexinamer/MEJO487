@@ -53,14 +53,3 @@ http://blog.invisionapp.com/10-ux-copywriting-tips-designers/
 # Icon Design
 Icons that are well designed exhibit a methodical and deliberate approach to the three major attributes that make up any icon design: form, aesthetic unity and recognition. They come in sets called icon sets that are groups of similar icons. Finding the right set for your project is crucial.
 https://www.smashingmagazine.com/2016/05/easy-steps-to-better-logo-design/
-
-<br>
-
-# Webpage Terminology
-![webpage terms](http://logicpool.com/wp-content/uploads/2010/02/webpage-terms-11.jpg)
-<br>
-![header terms](https://www.tronar.net/wp-content/uploads/1-Most-Common-Features-That-Every-Small-Business-Website-Must-Have-Header.png)
-<br>
-![hero image](https://575717b777ff8d928c6b-704c46a8034042e4fc898baf7b3e75d9.ssl.cf1.rackcdn.com/9349968_hero-image-design-tips-for-natural-looking_t17563513.jpg)
-<br>
-![navigation](https://575717b777ff8d928c6b-704c46a8034042e4fc898baf7b3e75d9.ssl.cf1.rackcdn.com/9349968_hero-image-design-tips-for-natural-looking_t17563513.jpg)
