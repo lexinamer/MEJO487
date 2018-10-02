@@ -1,4 +1,6 @@
 # Native v Web App
+- A native application is an application program that has been developed for use on a particular platform or device. Because native apps are written for a specific platform, they can interact with and take advantage of operating system features and other software that is typically installed on that platform.
+- A web application is an Internet-enabled app that is accessible via the mobile device's Web browser. They don't need be downloaded onto the user's mobile device in order to be accessed and are avialable across platforms and browsers. 
 
 # Design Concepts
 
