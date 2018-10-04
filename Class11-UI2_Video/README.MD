@@ -39,18 +39,18 @@ For maximum browser compatibility you should include three formats in your HTML5
 The goal of this assignment is to begin to find, critique, and explore different interactive pieces and websites.
 
 **In class today**
-1. Group up in pairs
-2. Each pair should find an interactive website or piece that you like.
+- Group up in pairs
+- Each pair should find an interactive website or piece that you like.
   - https://www.nytimes.com/interactive/2017/12/21/us/2017-year-in-graphics.html
   - http://blog.apps.npr.org/
   - https://features.propublica.org/2017-year-in-review/visual-storytelling-interactive-data-journalism/
   - https://www.awwwards.com/websites/web-interactive/
-3. Each group should email me (lexinamer@gmail.com) the URL to the site before the end of class today
+- Each group should email me (lexinamer@gmail.com) the URL to the site before the end of class today
 
 **Over the weekend**
 
-4. Go through the site thoroughly
-5. At the start of the next class, each group is going to present for 5 minutes on their chosen site. Keep in mind that you should cover the following:
+- Go through the site thoroughly
+- At the start of the next class, each group is going to present for 5 minutes on their chosen site. Keep in mind that you should cover the following:
   - Summary of the piece
   - Why you chose this piece
   - Who the target audience(s)/users might be
