@@ -48,6 +48,7 @@ The goal of this assignment is to begin to find, critique, and explore different
 3. Each group should email me (lexinamer@gmail.com) the URL to the site before the end of class today
 
 **Over the weekend**
+
 4. Go through the site thoroughly
 5. At the start of the next class, each group is going to present for 5 minutes on their chosen site. Keep in mind that you should cover the following:
   - Summary of the piece
