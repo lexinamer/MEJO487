@@ -1,4 +1,4 @@
-# Day 11	| UI/UX Part 1
+# Day 11	| UI/UX Part 2
 
 ## Understanding User Experience
 - Intro to UX > ux.md
