@@ -35,7 +35,6 @@ Px, em and rem are all units of length used to define the size of elements on a 
 - Typekit
 - What the font?
 
-<br>
 # Color and Color Psychology
 The use of color can dramatically affect moods, feelings, and emotions. It is a powerful communication tool and can be used to signal action, influence mood, and cause physiological reactions, which becomes especially important in design.
 
@@ -54,7 +53,7 @@ The use of color can dramatically affect moods, feelings, and emotions. It is a 
 ### Hex Colors
 A hex color is a six-digit hexadecimal number used in HTML, CSS, SVG, and other computing applications, to represent colors. The number represents the red, green and blue components of the color. One byte represents a number in the range 00 (none) to FF (full) in hexadecimal notation, or 0 (none) to 255 (full) in decimal notation.
 
-![hex colors](https://www.smashingmagazine.com/wp-content/uploads/2012/09/hex-additive-and-subtractive.png)
+![hex colors](http://goodmorninggeek.com/wp-content/uploads/2011/11/rgb.png)
 
 ### Color Moods
 While perceptions of color are somewhat subjective, there are some color effects that have universal meaning. Colors in the red area of the color spectrum are known as warm colors and include red, orange and yellow.
@@ -63,4 +62,4 @@ These warm colors evoke emotions ranging from feelings of warmth and comfort to 
 
 Colors on the blue side of the spectrum are known as cool colors and include blue, purple and green. These colors are often described as calm, but can also call to mind feelings of sadness or indifference.
 
-![color](http://www.pamorama.net/corepam/wp-content/uploads/2013/04/guide-to-color-emotions.gif)
+![color](http://viitech.net/website/wp-content/uploads/2014/05/rainbow-of-brands.png)
