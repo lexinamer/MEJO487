@@ -148,12 +148,12 @@ No single course could possibly give you all of these values and competencies; b
 | -         | Thurs Sept 27 | NO CLASS                                                             |
 | 10         | Tues Oct 2    | UI/UX Part 1, Interactive storytelling    |
 | 11         | Thurs Oct 4   | UI/UX Part 2                                            |
-| 12         | Tues Oct 9    | Intro to Sass, Setting up local servers, Ajax and JSON                        |
+| 12         | Tues Oct 9    | Intro to Sass, Setting up local servers             |
 | 13         | Thurs Oct 11  | Lab time for Project 2                              |
 |            | **Monday Oct 15   | Project 2 due by MIDNIGHT**                                            |
-| 14         | Tues Oct 16   | Project 2 Presentations                                        |
+| 14         | Tues Oct 16   | Project 2 Presentations, Live grading                              |
 | -         | Thurs Oct 18  | FALL BREAK- NO CLASS       |
-| 15         | Tues Oct 23   | Principles of Data Journalism, Introduce Project 3       |
+| 15         | Tues Oct 23   | Ajax and JSON, Principles of Data Journalism, Introduce Project 3       |
 | 16         | Thurs Oct 25  | Charts and Graphs                                                    |
 | 17         | Tues Oct 30   | Charts continued                                                     |
 | 18         | Thurs Nov 1   | Lab time for Project 3                                               |
