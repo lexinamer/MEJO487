@@ -148,7 +148,7 @@ No single course could possibly give you all of these values and competencies; b
 | -         | Thurs Sept 27 | NO CLASS                                                             |
 | 10         | Tues Oct 2    | UI/UX Part 1, Interactive storytelling    |
 | 11         | Thurs Oct 4   | UI/UX Part 2                                            |
-| 12         | Tues Oct 9    | Intro to AJAX and JSON, Setting up local servers                           |
+| 12         | Tues Oct 9    | Intro to Sass, Setting up local servers, Ajax and JSON                        |
 | 13         | Thurs Oct 11  | Lab time for Project 2                              |
 |            | **Monday Oct 15   | Project 2 due by MIDNIGHT**                                            |
 | 14         | Tues Oct 16   | Project 2 Presentations                                        |
