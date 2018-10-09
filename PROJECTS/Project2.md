@@ -21,6 +21,7 @@ This project is worth 150 points. The breakdown will be the following.
 
 ## Submission:
 Upload your project to Github and Github Pages. Fill out the Google Form with both links similar to as follows:
+https://goo.gl/forms/aEFlxjIASWXLldb82
 
 - live site: www.username.github.io/project2
 - code: www.github.com/username/project2
