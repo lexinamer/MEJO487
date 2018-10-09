@@ -13,6 +13,7 @@ Each group presents their interactive piece for 5 minutes (you will be timed)
 
 ### Installing Sass
 1. Lets check to see if we have Node and NPM: `node -v` and `npm -v`
+(If you need Node and NPM, https://nodejs.org/en/)
 2. Use NPM to install Sass globally on your machine: `npm install -g sass`
 3. Double check it installed by running: `sass -v`
 
