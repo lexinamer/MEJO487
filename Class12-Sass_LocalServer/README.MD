@@ -49,3 +49,7 @@ To get around these problems, we need to run our code through a local web server
 3. Double check you have it installed: `python -V`
 4. Now you can run a local server: `python -m SimpleHTTPServer`
 5. Default is now `localhost:8000`
+
+## Project 2
+- Lets make sure we can use Github and Github Pages
+- We will have a live grading portion where you have to defend your JS code
