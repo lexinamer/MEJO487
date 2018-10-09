@@ -17,7 +17,7 @@ This project is worth 150 points. The breakdown will be the following.
 
 1. Aesthetically pleasing and intentionally designed and built. The mobile interface looks good and works well. The layout is user-friendly and meets industry standards (100 pts)
 2. Slider topic and content is informative, logical, educational, and accurate. Remember, you should adhere to journalistic principles and provide sources as needed (25 pts)
-3. Legibility of code (25 pts) - Code is clean, efficient, and well-commented.
+3. Legibility of code (25 pts) - Code is clean, efficient, and well-commented. You can explain your JS code. 
 
 ## Submission:
 Upload your project to Github and Github Pages. Fill out the Google Form with both links similar to as follows:
