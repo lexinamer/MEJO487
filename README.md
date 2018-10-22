@@ -46,29 +46,29 @@ There will be one exam during the second half of the semester, most likely on ex
 ### Grading
 Your work must meet the following minimum standards to be considered for a grade of B or better:
 
-|    ASSIGNMENTS   |   POINTS EACH  |    % OF GRADE| 
-|-----------------------|-------------|-------------| 
-| Exercises and Quizzes | 20          | 20%         | 
-| Project 1             | 150         | 15%         | 
-| Project 2             | 150         | 15%         | 
-| Project 3             | 150         | 15%         | 
-| Final Project         | 250         | 25%         | 
-| Coding Test           | 100         | 10%         | 
-| Total                 | 1000        | 100%        | 
+|    ASSIGNMENTS   |   POINTS EACH  |    % OF GRADE|
+|-----------------------|-------------|-------------|
+| Exercises and Quizzes | 20          | 20%         |
+| Project 1             | 150         | 15%         |
+| Project 2             | 150         | 15%         |
+| Project 3             | 150         | 15%         |
+| Final Project         | 250         | 25%         |
+| Coding Test           | 100         | 10%         |
+| Total                 | 1000        | 100%        |
 
-|LETTER GRADE |   %     | 
-|--------------|--------| 
-| A            | 94-100 | 
-|   A-         | 90-93  | 
-|   B+         | 87-89  | 
-|  B           | 84-86  | 
-|  B-          | 80-83  | 
-| C+           | 77-79  | 
-| C            | 74-76  | 
-| C-           | 70-73  | 
-| D+           | 67-69  | 
-| D            | 60-66  | 
-| F            | 0-59   | 
+|LETTER GRADE |   %     |
+|--------------|--------|
+| A            | 94-100 |
+|   A-         | 90-93  |
+|   B+         | 87-89  |
+|  B           | 84-86  |
+|  B-          | 80-83  |
+| C+           | 77-79  |
+| C            | 74-76  |
+| C-           | 70-73  |
+| D+           | 67-69  |
+| D            | 60-66  |
+| F            | 0-59   |
 
 
 *It meets the assignment specifications.*
@@ -133,39 +133,38 @@ No single course could possibly give you all of these values and competencies; b
 ## SYLLABUS (SUBJECT TO CHANGE)
 | CLASS          | DATE   | TOPICS            |
 |------------|---------------|----------------------------------------------------------------------|
-| 1          | Tues Aug 21   | Introductions, policies, CSS review and advanced methods             |
-| 2          | Thurs Aug 23  | CSS Layouts, Project 1 assigned                                      |
-| 3          | Tues Aug 28   | Command Line Basics                                                  |
-| 4          | Thurs Aug 30  | Git & GitHub/GitHub Pages                                                         |
+| 1          | Tues Aug 21   | Introductions, policies, CSS review and advanced methods|
+| 2          | Thurs Aug 23  | CSS Layouts, Project 1 assigned       |
+| 3          | Tues Aug 28   | Command Line Basics                |
+| 4          | Thurs Aug 30  | Git & GitHub/GitHub Pages                         |
 | 5          | Tues Sep 4    | Lab time for Project 1                                 |
-| 6          | Thurs Sep 6   | JavaScript Part 1 (intro, variables, data types)                     |
+| 6          | Thurs Sep 6   | JavaScript Part 1 (intro, variables, data types)       |
 | -          | Tues Sep 11   | WEATHER DAY
 | -          | Thurs Sep 13  | WEATHER DAY                |
-|            | **Mon Sept 17   | Project 1 due by 5PM**                                         ||
+|            | **Mon Sept 17   | Project 1 due by 5PM**                  ||
 | 7          | Tues Sep 18   | JavaScript Part 2 (functions & objects)  |
 | 8         | Thurs Sept 20 | JavaScript Part 3 (loops and DOM manipulation) |
 | 9         | Tues Sept 25  | jQuery, jQuery plugins, Introduce Project 2            |
-| -         | Thurs Sept 27 | NO CLASS                                                             |
+| -         | Thurs Sept 27 | NO CLASS                                      |
 | 10         | Tues Oct 2    | UI/UX Part 1, Interactive storytelling    |
-| 11         | Thurs Oct 4   | UI/UX Part 2                                            |
+| 11         | Thurs Oct 4   | UI/UX Part 2     |
 | 12         | Tues Oct 9    | Intro to Sass, Setting up local servers             |
 | 13         | Thurs Oct 11  | Lab time for Project 2                              |
-|            | **Monday Oct 15   | Project 2 due by MIDNIGHT**                                            |
-| 14         | Tues Oct 16   | Project 2 Presentations, Live grading                              |
+|            | **Monday Oct 15   | Project 2 due by MIDNIGHT**                   |
+| 14         | Tues Oct 16   | Project 2 Presentations, Live grading   |
 | -         | Thurs Oct 18  | FALL BREAK- NO CLASS       |
-| 15         | Tues Oct 23   | Ajax and JSON, Principles of Data Journalism, Introduce Project 3       |
-| 16         | Thurs Oct 25  | Charts and Graphs                                                    |
-| 17         | Tues Oct 30   | Charts continued                                                     |
-| 18         | Thurs Nov 1   | Lab time for Project 3                                               |
-|            | **Mon Nov 5     | Project 3 due by MIDNIGHT**                                            |
-| 19         | Tues Nov 6    | Intro to APIs, Introduce Final Project                               |
-| 20         | Thurs Nov 8   | Visual APIs                                                          |
-| 22         | Tues Nov 13   | News APIs                                                            |
-| 22         | Thurs Nov 15  | Social APIs                                                          |
-| 23         | Tues Nov 20   | Google Sheets as a Database                                          |
-| -           | Thurs Nov 22  | Thanksgiving - no class                                               |
-| 24         | Tues Nov 27   | Review/Parking Lot                                                   |
-| 25         | Thurs Nov 29  | Lab time for Final Project                                           |
-| 26         | Tues Dec 4    | Final Project Presentations                                           |
-| 27         | **Weds Dec 5    | Final Project due by MIDNIGHT**                                        |
-|            | **Tues Dec 11   | FINAL EXAM (CODING TEST): 4:00 pm**                                    |
+| 15         | Tues Oct 23   | Portfolio and Intentional Design
+| 16         | Thurs Oct 25  | jQuery and UI day/ Introduce Final Project    |
+| 17         | Tues Oct 30   | Project Pitches / Servers and Domains |
+| 18         | Thurs Nov 1   | Ajax and Json                    |
+| 19         | Tues Nov 6    | Group presentations/ Intro to Charts and Graphs    |
+| 20         | Thurs Nov 8   | Charts and Graphs      |
+| 22         | Tues Nov 13   | Intro to APIs  |
+| 22         | Thurs Nov 15  | APIs continued |
+| 23         | Tues Nov 20   | Group presentations/ Review/ Parking lot|
+| -           | Thurs Nov 22  | Thanksgiving - no class       |
+| 24         | Tues Nov 27   | Code test intro/ Lab time for final project |
+| 25         | Thurs Nov 29  | Lab time for Final Project   
+| -         | **Mon Dec     | Final Project due by 5pm**     ||
+| 26         | Tues Dec 4    | Final Project Presentations                   |
+|            | **Tues Dec 11   | FINAL EXAM (CODING TEST): 4:00 pm**         |
