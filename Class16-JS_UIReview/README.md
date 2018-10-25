@@ -1,4 +1,5 @@
 # Class 16- JS review and UI design day
+Reminder that we will be setting up hosting next week so make sure to bring a debit or credit card in case we need it to set up accounts. 
 
 ## Branding Challenge Recap
 
