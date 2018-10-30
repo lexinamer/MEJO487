@@ -154,9 +154,9 @@ No single course could possibly give you all of these values and competencies; b
 | 14         | Tues Oct 16   | Project 2 Presentations, Live grading   |
 | -         | Thurs Oct 18  | FALL BREAK- NO CLASS       |
 | 15         | Tues Oct 23   | Portfolio and Intentional Design
-| 16         | Thurs Oct 25  | jQuery and UI day/ Introduce Final Project    |
-| 17         | Tues Oct 30   | Project Pitches / Servers and Domains |
-| 18         | Thurs Nov 1   | Ajax and Json                    |
+| 16         | Thurs Oct 25  | jQuery and UI day    |
+| 17         | Tues Oct 30   | Introduce Final Project / Servers and Domains |
+| 18         | Thurs Nov 1   | Project Pitches / Ajax and Json                    |
 | 19         | Tues Nov 6    | Group presentations/ Intro to Charts and Graphs    |
 | 20         | Thurs Nov 8   | Charts and Graphs      |
 | 22         | Tues Nov 13   | Intro to APIs  |
