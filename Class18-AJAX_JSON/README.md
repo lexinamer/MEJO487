@@ -13,7 +13,7 @@
 
 ## Practicing
 Lets go play with some data:
-https://github.com/jdorfman/awesome-json-datasets#nobel-prize
+https://github.com/jdorfman/awesome-json-datasets
 
 ## Homework
 ### JSON Data
