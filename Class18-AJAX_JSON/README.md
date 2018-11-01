@@ -25,6 +25,8 @@ https://github.com/jdorfman/awesome-json-datasets#nobel-prize
 ### Final Projects
 Begin researching your final projects and start collecting data and other information. Create a short creative brief describing your project. A creative brief is a summary of every single aspect involved in the project, making it easier for both client and designer to keep track of their progress.
 
+Create a repo with necessary files/folders on Github and store this in your README.md
+
 Your creative brief should answer the following:
 - What is this project about?
 - Who is the project for?
