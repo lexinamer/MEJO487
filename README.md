@@ -157,14 +157,14 @@ No single course could possibly give you all of these values and competencies; b
 | 16         | Thurs Oct 25  | jQuery and UI day    |
 | 17         | Tues Oct 30   | Introduce Final Project / Servers and Domains |
 | 18         | Thurs Nov 1   | Project Pitches / Ajax and Json                    |
-| 19         | Tues Nov 6    | Intro to Charts and Graphs    |
-| 20         | Thurs Nov 8   | Charts and Graphs      |
-| 22         | Tues Nov 13   | Intro to APIs  |
-| 22         | Thurs Nov 15  | APIs continued |
-| 23         | Tues Nov 20   | Group presentations/ Review/ Parking lot|
+| 19         | Tues Nov 6    | WATER SYSTEM BREAK- NO CLASS   |
+| 20         | Thurs Nov 8   | Styleguides and Sketches    |
+| 22         | Tues Nov 13   | Intro to Charts and Graphs Intro to APIs  |
+| 22         | Thurs Nov 15  | Charts and Graphs Continued |
+| 23         | Tues Nov 20   | Intro to APIs|
 | -           | Thurs Nov 22  | Thanksgiving - no class       |
-| 24         | Tues Nov 27   | Code test intro/ Lab time for final project |
-| 25         | Thurs Nov 29  | Lab time for Final Project   
+| 24         | Tues Nov 27   |  APIs continued |
+| 25         | Thurs Nov 29  | Code test intro/ Lab time for Final Project   
 | -         | **Mon Dec     | Final Project due by 5pm**     ||
 | 26         | Tues Dec 4    | Final Project Presentations                   |
 |            | **Tues Dec 11   | FINAL EXAM (CODING TEST): 4:00 pm**         |
