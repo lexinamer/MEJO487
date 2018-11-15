@@ -1,5 +1,9 @@
 # Class 19/20- Graphs
 
+## Final Projects
+- Spend 10 mins talking through your final projects with a neighbor.
+- Discuss the graphs you are going to use 
+
 ## JSON Recap
 ```js
 $.ajax({
