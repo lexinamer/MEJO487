@@ -51,7 +51,9 @@ Besides the obvious, one reason to keep them private is because public APIs ofte
 
 You can't securely store your API keys in a client side app so you would typically store your API keys in an environment file of some sort, make the API calls server-side and then serve information to the client from there.
 
-We don't have enough time to learn this, so for now we will just hide them from Github using `.gitignore` and a `config.js` file. 
+We don't have enough time to learn this, so for now we will just hide them from Github using `.gitignore` and a `config.js` file.
+
+**Let's practice this**
 
 ## Homework
 Over the next week, you should begin coding your final project. Focus on getting the Data/chart page completed. Make sure to be committing to Github to save your work.
