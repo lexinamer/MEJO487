@@ -28,8 +28,8 @@ $(document).ready(function(){
     // Make chart
     var chart = new Taucharts.Chart({
       guide: {
-        x: {label: 'Infants'},
-        y: {label: 'People\'s Lives'},
+        x: {label: {text: 'Infants Mortality', padding: 35}, padding: 20},
+        y: {label: {text: 'People\'s Lives', padding: 35}, padding: 20},
       },
       data: nations,
       type: 'scatterplot',
