@@ -1,4 +1,4 @@
-# Class 19/20- Graphs
+# Class 21/22- APIs
 
 ## Interactive Website Presentations
 Email me the link at the start of class.
@@ -54,6 +54,15 @@ You can't securely store your API keys in a client side app so you would typical
 We don't have enough time to learn this, so for now we will just hide them from Github using `.gitignore` and a `config.js` file.
 
 **Let's practice this**
+
+## DataTables
+DataTables is a powerful jQuery plugin for creating table listings and adding interactions to them. It provides searching, sorting and pagination without any configuration.
+
+https://datatables.net/
+
+## Getting started with a few APIs
+- News.org: https://newsapi.org/
+- Flickr: https://www.flickr.com/services/api/
 
 ## Homework
 Over the next week, you should begin coding your final project. Focus on getting the Data/chart page completed. Make sure to be committing to Github to save your work.

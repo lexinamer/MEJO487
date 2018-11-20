@@ -3,19 +3,17 @@ $(document).ready(function(){
 
   // Declare Variables
   var url = './js/nations.json';
-  var nations = '';
 
   // Ajax call
   $.ajax({
     type: 'GET',
     url: url,
-    data: nations,
     async: true,
-    success: function(nations){
+    success: function(data){
       // Console Log Data
-      console.log(nations);
+      console.log(data);
       // Callback function
-      buildChart(nations);
+      buildChart(data);
 
     },
     error: function(error){
@@ -24,22 +22,22 @@ $(document).ready(function(){
   });
 
   // Function
-  function buildChart(nations){
+  function buildChart(data){
     // Make chart
     var chart = new Taucharts.Chart({
       guide: {
-        x: {label: {text: 'Infants Mortality', padding: 35}, padding: 20},
+        x: {label: {text: 'Infants are Dying', padding: 35}, padding: 20},
         y: {label: {text: 'People\'s Lives', padding: 35}, padding: 20},
       },
-      data: nations,
+      data: data,
       type: 'scatterplot',
       x: 'Infant Mortality Rate',
       y: 'Life Expectancy',
-      color: 'Obesity Rate',
+      color: 'Life Expectancy',
       size: 'Per Capita Group',
       plugins: [
         Taucharts.api.plugins.get('tooltip')({
-          fields: ['name', 'Infant Mortality Rate', 'Unemployment Rate', 'Life Expectancy']
+          fields: ['name', 'Infant Mortality Rate']
         }),
         Taucharts.api.plugins.get('legend')()
       ],
