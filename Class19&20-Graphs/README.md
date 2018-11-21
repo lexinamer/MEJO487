@@ -71,10 +71,3 @@ https://www.taucharts.com/
 ## Homework
 ### Final Projects
 Over the next week, you should begin coding your final project. Focus on getting the Data/chart page completed. Make sure to be committing to Github to save your work.
-
-### Interactive Project Presentations
-- Pick an interactive website/piece
-- Be ready to present it next Tuesday (Nov 20)
-- Each person gets 3 mins- it will be timed
-- Discuss pros, cons, suggestions for improvement, users, etc. Make sure not to include any "I think..." statements.
-- This will be graded based on how you present.

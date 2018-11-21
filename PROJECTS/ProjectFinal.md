@@ -14,7 +14,7 @@ We will be working on this as small assignments both as homework and
 - Tasteful use of UI elements to enhance the app (e.g., tooltips, accordion, slider, etc.)
 - Clear navigation to go between the pages and some kind of high level introduction to the project.
 - One page will be a data dashboard using reputable datasets for the charts and graphs
-- At least two (2) charts and one (1) table created with either the charting library we discuss in class
+- At least two (2) charts with either the charting library we discuss in class and one (1) table created
 - Use of XML or JSON data in at least one of the charts
 - Links to the source data, preferably as captions with the charts, or in a separate list of sources. All of the charts and factual statements in your story should have accurate, specific sources of data. For example, don't just cite 'data.gov;' cite the specific dataset on which you based your chart, e.g. 'U.S. Department of Agriculture 2010 Food Environment Atlas'
 - Another page will include APIs and additional media to support the data and topic.
@@ -22,6 +22,15 @@ We will be working on this as small assignments both as homework and
 - The APIs must include supporting textual context and source information (if it comes from a specific source)
 - Additional images/video/media can also be used to enhance the app
 - The third page should include a brief explanation about the project, your information, and any sources (keep in mind, this does not have to be a page in a transitional sense. Something like a modal could work)
+
+## Tangible Assets 
+- Intro text for the project 
+- 2 different charts (one MUST be used with JSON or another data type)
+- 1 data table to display all data 
+- 2 APIs 
+- Any images/videos to support your project
+- A list of sources for the data and other info
+- Brief explanation about the project and yourself
 
 ## Expectations
 Your web app should look good enough and work well enough to be published. It should be polished, professional, and free from grammatical error. All images should be resized and the app should load quickly and work on different web browsers.
