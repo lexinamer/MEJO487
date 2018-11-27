@@ -63,10 +63,14 @@ https://datatables.net/
 ## Getting started with a few APIs
 - News.org: https://newsapi.org/
 - Flickr: https://www.flickr.com/services/api/
+- Google Maps: https://developers.google.com/maps/documentation/
+
+## Twitter and Insta:
+- Embed a Twitter Feed: https://publish.twitter.com/
+- Embed Instagram: https://www.instagram.com/developer/embedding/
 
 ## Homework
 Over the next week, you should begin coding your final project. Focus on getting the Data/chart page completed. Make sure to be committing to Github to save your work.
-
 
 ### Interactive Project Presentations
 - Pick an interactive website/piece and email me the link
