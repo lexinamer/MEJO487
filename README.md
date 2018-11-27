@@ -165,6 +165,6 @@ No single course could possibly give you all of these values and competencies; b
 | -           | Thurs Nov 22  | Thanksgiving - no class       |
 | 24         | Tues Nov 27   |  APIs continued |
 | 25         | Thurs Nov 29  | Lab time for Final Project   
-| -         | **Mon Dec 3    | Final Project due by 5pm**     ||
+| -         | **Tues Dec 4    | Final Project due by 9am**     ||
 | 26         | Tues Dec 4    | Code test intro/ Final Project Presentations                   |
 |            | **Tues Dec 11   | FINAL EXAM (CODING TEST): 4:00 pm**         |
