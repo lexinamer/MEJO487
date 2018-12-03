@@ -46,7 +46,9 @@ This project is worth 400 points. The breakdown will be the following.
 5. Requirements (50 pts)- Did you follow all instructions? Are you missing any requirements? Was the project submitted on time and correctly?
 
 ## Submission
-**Project is due by 5pm on Monday, Dec 3.**
+**Project is due by 9am on Tuesday, Dec 4.**
+
+https://goo.gl/forms/LGwlseVxH0kSrOgm2
 
 Any submissions after this time will be **15 points** off per **every 12 hours past due**. There is no excuse for a late submission as you will have multiple lab days and plenty of time. 
 
