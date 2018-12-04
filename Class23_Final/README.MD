@@ -30,6 +30,7 @@ The coding test will be a Github repo that you have to pull down and follow a se
 
 **Javascript Topics**
 - Basic DOM manipulation using jQuery (ie mobile menu)
+- Utilizing the console to debug
 - Pulling in JSON data using AJAX
 - Using For Loops to read data
 - Printing data to the page using jQuery
